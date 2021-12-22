@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "username": "luiza",
+      "email": "luiza841@mail.ru",
+      "uid": "lIjgrJJM5SNfGMqgcKF3tSZ5Sgg1",
+      "admin": "true",
+      "imageURL": "https://pp.userapi.com/c621700/v621700993/355c6/VNtu_8CMOhA.jpg",
+      "id": 1
+    },
+    {
+      "username": "lu",
+      "email": "luiza842@mail.ru",
+      "uid": "NqooxewXSwV9wxNPkWSJhSaGZNw2",
+      "imageURL": "https://pp.userapi.com/c621700/v621700993/355c6/VNtu_8CMOhA.jpg",
+      "id": 1
+    },
+    {
+      "username": "luiza",
+      "email": "luiza8411@mail.ru",
+      "uid": "yafYohtSanc4zWQQPvmXVrQfLH13",
+      "imageURL": "https://m.media-amazon.com/images/I/A13usaonutL._AC_CLa%7C2140%2C2000%7C51ZMWgQUh6L.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_UX569_.png",
+      "id": 2
+    }
+  ],
+  "merch": [
+    {
+      "title": "Bedding Set",
+      "imageURL": "https://ae01.alicdn.com/kf/H3b374fbefbc54c5a93aa9240e0e55fa2d.jpg",
+      "price": "322",
+      "category": "bedding-set",
+      "id": 1
+    },
+    {
+      "title": "Pillow",
+      "imageURL": "https://ae01.alicdn.com/kf/Hcd3da8c2d5524d0ca362797588d3bac6R.jpg?width=800&height=800&hash=1600",
+      "price": "3700",
+      "category": "pillow",
+      "id": 2
+    },
+    {
+      "title": "Blanket",
+      "imageURL": "https://ae01.alicdn.com/kf/Hcc04d23e2d6e48a8adc3b504f3959bebv.jpg",
+      "price": "5600",
+      "category": "blanket",
+      "id": 3
+    },
+    {
+      "title": "Bedding Set",
+      "imageURL": "https://ae01.alicdn.com/kf/H8982cdaf329344b987694790e4bd3c46c.jpg",
+      "price": "3500",
+      "category": "bedding-set",
+      "id": 4
+    },
+    {
+      "title": "Pillow",
+      "imageURL": "https://ae01.alicdn.com/kf/H8f1eb0eaa59e448ab3412fed8ae60a3ee.jpg?width=800&height=800&hash=1600",
+      "price": "450",
+      "category": "pillow",
+      "id": 5
+    },
+    {
+      "title": "Blanket",
+      "imageURL": "https://ae01.alicdn.com/kf/H61286da09d434f6897f6f0dc0505b4833.jpg?width=790&height=790&hash=1580",
+      "price": "4500",
+      "category": "blanket",
+      "id": 6
+    },
+    {
+      "title": "Bedding Set",
+      "imageURL": "https://ae01.alicdn.com/kf/Hce1e6585f9484327b43629f31422fafdY.jpg",
+      "price": "4500",
+      "category": "bedding-set",
+      "id": 7
+    },
+    {
+      "title": "Bedding Set",
+      "imageURL": "https://ae01.alicdn.com/kf/H0134cad1080d49668012492b464ea2a2t.jpg",
+      "price": "4500",
+      "category": "bedding-set",
+      "id": 8
+    },
+    {
+      "title": "Blanket",
+      "imageURL": "https://ae01.alicdn.com/kf/Hb14bf6409c8746e5ae3992beb64cb380J.jpg",
+      "price": "6600",
+      "category": "blanket",
+      "id": 9
+    },
+    {
+      "title": "Bedding Set",
+      "imageURL": "https://ae01.alicdn.com/kf/Ha60b91b0af6b4f0a84bf996922be33a71.jpg",
+      "price": "2500",
+      "category": "bedding-set",
+      "id": 10
+    },
+    {
+      "title": "Blanket",
+      "imageURL": "https://ae01.alicdn.com/kf/Hb91bd299b8ad4a5b962f3a66ac793a77f.jpg?width=790&height=790&hash=1580",
+      "price": "3800",
+      "category": "blanket",
+      "id": 11
+    },
+    {
+      "title": "Pillow",
+      "imageURL": "https://ae01.alicdn.com/kf/H03dc21ea687d4781ba2384914897af42Q.jpg",
+      "price": "1200",
+      "category": "pillow",
+      "id": 12
+    },
+    {
+      "title": "Bedding Set",
+      "imageURL": "https://ae01.alicdn.com/kf/H9bee80449e624a37814410ecefc0083eu.jpg?width=800&height=800&hash=1600",
+      "price": "2300",
+      "category": "bedding-set",
+      "id": 13
+    },
+    {
+      "title": "Blanket",
+      "imageURL": "https://ae01.alicdn.com/kf/H1eb716bf44e441ca86394e295c1940aal.jpg?width=1000&height=1680&hash=2680",
+      "price": "1500",
+      "category": "blanket",
+      "id": 14
+    },
+    {
+      "title": "Pillow",
+      "imageURL": "https://ae01.alicdn.com/kf/Hff143411ba86450b987cdf334757f2f66.jpg",
+      "price": "800",
+      "category": "pillow",
+      "id": 15
+    },
+    {
+      "title": "Pillow",
+      "imageURL": "https://ae01.alicdn.com/kf/H6ce0d7ae325948bc9a52f72df6427a3eD.jpg",
+      "price": "990",
+      "category": "pillow",
+      "id": 17
+    },
+    {
+      "title": "bedding set",
+      "imageURL": "https://ae01.alicdn.com/kf/H35fb4521d39d46b294298d449a7b2b34R.jpg",
+      "price": "1207",
+      "category": "bedding-set",
+      "id": 18
+    }
+  ]
+}
